@@ -1,0 +1,14 @@
+/Users/erickmartinez/Blackjack/bin/Debug/net9.0/Blackjack
+/Users/erickmartinez/Blackjack/bin/Debug/net9.0/Blackjack.deps.json
+/Users/erickmartinez/Blackjack/bin/Debug/net9.0/Blackjack.runtimeconfig.json
+/Users/erickmartinez/Blackjack/bin/Debug/net9.0/Blackjack.dll
+/Users/erickmartinez/Blackjack/bin/Debug/net9.0/Blackjack.pdb
+/Users/erickmartinez/Blackjack/obj/Debug/net9.0/Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erickmartinez/Blackjack/obj/Debug/net9.0/Blackjack.AssemblyInfoInputs.cache
+/Users/erickmartinez/Blackjack/obj/Debug/net9.0/Blackjack.AssemblyInfo.cs
+/Users/erickmartinez/Blackjack/obj/Debug/net9.0/Blackjack.csproj.CoreCompileInputs.cache
+/Users/erickmartinez/Blackjack/obj/Debug/net9.0/Blackjack.dll
+/Users/erickmartinez/Blackjack/obj/Debug/net9.0/refint/Blackjack.dll
+/Users/erickmartinez/Blackjack/obj/Debug/net9.0/Blackjack.pdb
+/Users/erickmartinez/Blackjack/obj/Debug/net9.0/Blackjack.genruntimeconfig.cache
+/Users/erickmartinez/Blackjack/obj/Debug/net9.0/ref/Blackjack.dll
