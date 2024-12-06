@@ -14,8 +14,11 @@ public class Card ()
     public string Suit{get=>suit; set=>suit=value;}
     public string Color{get=>color; set=>color=value;}
 
-    // TODO: An ace card can have a value of 1 or 11. Figure out a way to make it happen. A tuple? Two vars?
+    // TODO: An ace card can have a value of 1 or 11. Figure out a way to make it happen. A tuple? Two vars?git
     
     
-    
+    public Array generateCards ()
+    {
+        
+    }
 }
