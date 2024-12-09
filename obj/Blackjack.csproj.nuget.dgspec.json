@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/erickmartinez/Blackjack/Blackjack.csproj": {}
+    "D:\\Users\\Milk\\Source\\Repos\\Blackjack\\Blackjack.csproj": {}
   },
   "projects": {
-    "/Users/erickmartinez/Blackjack/Blackjack.csproj": {
+    "D:\\Users\\Milk\\Source\\Repos\\Blackjack\\Blackjack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erickmartinez/Blackjack/Blackjack.csproj",
+        "projectUniqueName": "D:\\Users\\Milk\\Source\\Repos\\Blackjack\\Blackjack.csproj",
         "projectName": "Blackjack",
-        "projectPath": "/Users/erickmartinez/Blackjack/Blackjack.csproj",
-        "packagesPath": "/Users/erickmartinez/.nuget/packages/",
-        "outputPath": "/Users/erickmartinez/Blackjack/obj/",
+        "projectPath": "D:\\Users\\Milk\\Source\\Repos\\Blackjack\\Blackjack.csproj",
+        "packagesPath": "C:\\Users\\Milk\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Milk\\Source\\Repos\\Blackjack\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/erickmartinez/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Milk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net9.0": {
@@ -59,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

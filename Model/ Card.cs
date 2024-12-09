@@ -14,11 +14,10 @@ public class Card ()
     public string Suit{get=>suit; set=>suit=value;}
     public string Color{get=>color; set=>color=value;}
 
-    // TODO: An ace card can have a value of 1 or 11. Figure out a way to make it happen. A tuple? Two vars?git
+    // TODO: An ace card can have a value of 1 or 11. Figure out a way to make it happen. A tuple? Two vars?
+    // TODO: Database for keeping track of player logins (password optional) and their scores.
     
+    //deck to hold the cards in a list and shuffles them as well as deals them
     
-    public Array generateCards ()
-    {
-        
-    }
+   
 }
